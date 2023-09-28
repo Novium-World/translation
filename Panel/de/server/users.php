@@ -1,0 +1,33 @@
+<?php
+
+return [
+    'permissions' => [
+        'websocket_*' => 'Erlaubt Zugang zur Websocket für diesen Server.',
+        'control_console' => 'Erlaubt dem Nutzer, Daten an die Konsole zu senden.',
+        'control_start' => 'Erlaubt dem Nutzern, den Server zu starten.',
+        'control_stop' => 'Erlaubt dem Nutzer, den Server zu stoppen.',
+        'control_restart' => 'Erlaubt dem Nutzern, den Server neu zu starten.',
+        'control_kill' => 'Erlaubt dem Nuterz, den Server zu killen.',
+        'user_create' => 'Erlaubt dem Nutzer, neue Nutzeraccounts für den Server zu erstellen.',
+        'user_read' => 'Erlaubt dem Nutzer, andere Nutzer, die an diesem Server beteiligt sind, zu sehen.',
+        'user_update' => 'Erlaubt dem Nutzer, andere Nutzer, die an diesem Server beteilgt sind zu bearbeiten.',
+        'user_delete' => 'Erlaubt dem Nutzer, andere Nutzer, die an diesem Server beteilgt sind zu entfernen.',
+        'file_create' => 'Erlaubt dem Nutzer, neue Dateien und Ordner zu erstellen.',
+        'file_read' => 'Erlaubt dem Nutzer sowohl Dateien und Ordner auf diesem Server als auch deren Inhalte zu sehen.',
+        'file_update' => 'Erlaubt dem Nutzer Dateien und Ordner auf diesem Server zu bearbeiten.',
+        'file_delete' => 'Erlaubt dem Nutzer Dateien und Ordner auf diesem Server zu löschen.',
+        'file_archive' => 'Erlaubt dem Nutzer Archive zu erstellen und zu dekompressieren.',
+        'file_sftp' => 'Erlaubt dem Nutzer diese Aktionen mit einem SFTP-Client durchzuführen.',
+        'allocation_read' => 'Gibt dem Nutzer Zugang zu den Allocation Bearbeitungsseiten',
+        'allocation_update' => 'Erlaubt dem Nutzer die Server Allocations zu verändern.',
+        'database_create' => 'Erlaubt dem Nutzer eine neue Datenbank auf diesem Server zu erstellen.',
+        'database_read' => 'Erlaubt dem Nutzer, die Serverdatenbanken anzuzeigen.',
+        'database_update' => 'Erlaubt dem Nutzer Veränderung an der Datenbank durchzuführen. Falls der Nutzer nicht die "Password Anzeigen" Berechtigung hat, kann dieser nicht das Passwort ändern.',
+        'database_delete' => 'Erlaubt dem Nutzer Datenbank zu löschen.',
+        'database_view_password' => 'Erlaubt dem Nutzer eine Datenbank-Passwörter im System anzuzeigen.',
+        'schedule_create' => 'Erlaubt dem Nutzer neue Ablaufpläne zu erstellen.',
+        'schedule_read' => 'Erlaubt dem Nutzer Ablaufpläne anzuzeigen.',
+        'schedule_update' => 'Erlaubt dem Nutzer bereits existierende Serverablaufpläne zu bearbeiten.',
+        'schedule_delete' => 'Erlaubt dem Nutzer Ablaufpläne zu löschen.',
+    ],
+];
