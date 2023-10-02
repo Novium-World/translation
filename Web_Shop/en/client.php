@@ -377,8 +377,10 @@
     'i_accept_the' => 'I accept the',
     'terms_and_conditions' => 'Terms and Conditions',
     // eigene
-    'titel'=> 'Novium, your World',
-    'untertitel'=> 'Unleash your creativity today!',
-    'plans'=> 'Plans',
+    'title'=> 'Novium, your World',
+    'subtitel' => 'Unleash your creativity today!',
+    'button'=> 'Explore Plans',
+    'untertitel'=> 'Lass deiner Kreativität noch heute freien Lauf!',
     'hosted'=> 'we are hosting',
+    ''=> '',
 );
