@@ -1,7 +1,7 @@
 ---
 name: Fehlerhafte Übersetzung
 about: Lass uns bitte wissen, wo und was auf unseren Systemen falsch übersetzt ist.
-title: ''
+title: "[DE/EN] Shop-Seite (bitte anpassen zu der gegebenheit)"
 labels: ''
 assignees: ''
 
