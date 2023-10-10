@@ -266,7 +266,7 @@
   'manage_service' => 'Service verwalten',
   'email_cancel_order_subject' => 'Dein Service wurde storniert',
   'email_cancel_order_content' => '<br><br>            Details zum Service: <br>            &bull; ID: #:id <br>            &bull; Servicename: :name <br>            &bull; Gnadenfrist bis: :period <br>            &bull; Grund der Stornierung: <code>:reason</code> <br><br>',
-  'email_payment_completed_subject' => 'Zahlung Bezahlt',
+  'email_payment_completed_subject' => 'Rechnung Bezahlt',
   'email_payment_completed_button' => 'Rechnung ansehen',
   'email_payment_completed_content' => '<br><br>                Details zur Zahlung: <br>                &bull; Zahlungs-ID: :id <br>                &bull; Payment Description: :description <br>                &bull; Payment Amount: :amount_rounded :currency <br>                &bull; Payment Method: :gateway_name <br><br>                Rest assured that your payment has been applied to your account, and any relevant invoices or outstanding balances have been updated accordingly. <br>',
   'email_payment_refunded_subject' => 'Processing Refund',
