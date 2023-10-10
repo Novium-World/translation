@@ -327,7 +327,7 @@
   'comment_settings' => 'Comment settings',
   'report' => 'Report',
   'latest_news' => 'Latest News',
-  'latest_news_desc' => 'Stay up to date on what is going on in the community and new updates.',
+  'latest_news_desc' => 'Bleibe auf dem neuesten Stand der Community und unserer Änderungen.',
   'read_more' => 'Read more',
   'news' => 'News',
   'cookies_settings' => 'Cookie Settings',
