@@ -10,7 +10,7 @@
   'results' => 'Ergebnisse',
   'more_info' => 'Mehr Informationen',
   'showing' => 'Ergebniss :count von :all Ergebnissen',
-  'add_balance' => 'Guthaben hinzufügen',
+  'add_balance' => 'Guthaben aufladen',
   'order_new_service' => 'Neuen Service bestellen',
   'terminated' => 'Beendet',
   'cancelled' => 'Storniert',
