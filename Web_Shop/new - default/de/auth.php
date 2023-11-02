@@ -118,7 +118,4 @@
     'two_factor_authentication' => 'Zwei-Faktor-Authentifizierung',
     '2fa_code' => '2FA Code',
     'verify_2fa_code' => '2FA verifizieren',
-    'log_in' => 'Einloggen',
-    'password_reset' => 'Password zurücksetzen',
-    'password_reset_content' => 'Du hast ein Passwort-Zurücksetzungs-Token angefordert'
 );
