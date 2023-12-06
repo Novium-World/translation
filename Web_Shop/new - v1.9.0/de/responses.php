@@ -40,6 +40,8 @@
     'user_verify_success' => 'E-Mail wurde verifiziert',
     'user_update_balance_success' => 'Guthaben wurde erfolgreich aktualisiert',
     'user_email_password_reset' => 'E-Mail mit dem Link zum Zurücksetzen des Passworts wurde versandt',
+    'user_device_updated' => 'Gerät wurde geändert',
+    'user_device_deleted' => 'Gerät wurde gelöscht',
     'categories_create_success' => 'Die Kategorie :name wurde erfolgreich erstellt.',
     'categories_update_success' => 'Die Kategorie :name wurde erfolgreich aktualisiert.',
     'categories_delete_error' => 'Die Kategorie :name darf keine Pakete enthalten, bevor sie gelöscht wird.',
@@ -97,4 +99,7 @@
     'your_payment_failed' => 'Dein Konto hat nicht genügend Guthaben, um diesen Kauf durchzuführen.',
     'webhook_handled' => 'Webhook verarbeitet',
     'refund_payment_notify' => 'Die Zahlung :payment_id wurde an dich zurückerstattet.',
+    'account_has_punishments' => 'Dein Konto hatte Bestrafungen in der Vergangenheit. Kontakiere unser Support-Team, um dein Konto zu entfernen.',
+    'account_deleted_in_24_hours' => 'Dein Konto wird in 72 Stunden gelöscht, noch hast du die Möglichkeit, dies rückgängig zu machen.',
+    'deletion_request_removed' => 'Dein Kontolöschungsantrag wurde entfernt.',
 );
